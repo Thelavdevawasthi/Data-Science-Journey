@@ -1,13 +1,11 @@
 # 📊 Data Science Journey
-Daily learning of Data Science, ML, Python, Statistics with practice code
+Daily learning of Data Science, ML, Python, and Statistics with practice code
 ## 📁 Structure
 
-```
-Data-Science-Journey/
-├── README.md
-├── day-001.ipynb
-    
-```
+
+
+
+ 
 ## 🎯 Goals
 
 - Build consistency with daily commits
